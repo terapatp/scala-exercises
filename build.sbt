@@ -1,6 +1,16 @@
-name := "scala-exercies"
+lazy val commonSetting = Seq(
+  organization := "com.example",
+  version := "1.0",
+  scalaVersion := "2.12.0"
+)
 
-version := "0.1"
+val baseDependencies = Seq(
+  "org.scalatest" % "scalatest_2.12" % "3.0.4" % "test"
+)
 
-scalaVersion := "2.12.4"
-        
+lazy val root = (project in file("."))
+  .settings(commonSetting: _*)
+  .settings(
+    name := "workshop",
+    libraryDependencies ++= baseDependencies
+  )
