@@ -2,24 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e318e097-6493-43d0-882d-414723a7a9fb" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/Exercise1.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/Exercise10.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/Exercise11.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/Exercise12.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/Exercise13.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/Exercise14.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/Exercise15.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/Exercise2.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/Exercise3.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/Exercise4.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/Exercise5.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/Exercise6.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/Exercise7.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/Exercise8.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/Exercise9.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/scala/Exercise1Test.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/scala/Exercise2Test.scala" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/Exercise2.scala" afterPath="$PROJECT_DIR$/src/main/scala/Exercise2.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/scala/Exercise2Test.scala" afterPath="$PROJECT_DIR$/src/test/scala/Exercise2Test.scala" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -51,23 +36,33 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Exercise2Test.scala" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Exercise2Test.scala" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/scala/Exercise2Test.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+            <state relative-caret-position="24">
+              <caret line="3" column="38" lean-forward="true" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
               <folding>
-                <element signature="e#0#30#0" expanded="true" />
+                <element signature="e#0#35#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Exercise2.scala" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Exercise1.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/Exercise1.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="259">
+              <caret line="19" column="6" lean-forward="false" selection-start-line="19" selection-start-column="6" selection-end-line="25" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Exercise2.scala" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/scala/Exercise2.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="15" lean-forward="false" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+            <state relative-caret-position="420">
+              <caret line="28" column="3" lean-forward="true" selection-start-line="28" selection-start-column="3" selection-end-line="28" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -122,10 +117,10 @@
         <option value="$PROJECT_DIR$/src/test/scala/Exercise14Test.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/Exercise15.scala" />
         <option value="$PROJECT_DIR$/src/test/scala/Exercise15Test.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/Exercise1.scala" />
         <option value="$PROJECT_DIR$/src/test/scala/Exercise1Test.scala" />
-        <option value="$PROJECT_DIR$/src/test/scala/Exercise2Test.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/Exercise1.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/Exercise2.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/Exercise2Test.scala" />
       </list>
     </option>
   </component>
@@ -182,19 +177,6 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="scala" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="scala-exercies" type="b2602c69:ProjectViewProjectNode" />
-              <item name="scala-exercies" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="scala-exercies" type="b2602c69:ProjectViewProjectNode" />
-              <item name="scala-exercies" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -218,18 +200,18 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="ScalaTest.ScalaTests in 'scala'">
-    <configuration name="Exercise14Test" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
+  <component name="RunManager" selected="ScalaTest.Exercise2Test.A ReverseString Stack should pop values in last-in-first-out order&#10;A ReverseString Stack should return None if get from an empty queue&#10;A ReverseString Stack should throw IllegalArgumentException if queue is full">
+    <configuration name="Exercise2Test.A ReverseString Stack should pop values in last-in-first-out order" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="root" />
-      <setting name="path" value="Exercise14Test" />
+      <setting name="path" value="Exercise2Test" />
       <setting name="package" value="" />
       <setting name="vmparams" value="" />
       <setting name="params" value="" />
       <setting name="workingDirectory" value="file://$PROJECT_DIR$" />
       <setting name="searchForTest" value="Across module dependencies" />
-      <setting name="testName" value="" />
-      <setting name="testKind" value="Class" />
+      <setting name="testName" value="A ReverseString Stack should pop values in last-in-first-out order" />
+      <setting name="testKind" value="Test name" />
       <setting name="showProgressMessages" value="true" />
       <setting name="useSbt" value="false" />
       <setting name="useUiWithSbt" value="false" />
@@ -237,17 +219,35 @@
       <testRegexps />
       <envs />
     </configuration>
-    <configuration name="Exercise1Test" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
+    <configuration name="Exercise2Test.A ReverseString Stack should pop values in last-in-first-out order&#10;A ReverseString Stack should return None if get from an empty queue&#10;A ReverseString Stack should throw IllegalArgumentException if queue is full" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="root" />
-      <setting name="path" value="Exercise1Test" />
+      <setting name="path" value="Exercise2Test" />
       <setting name="package" value="" />
       <setting name="vmparams" value="" />
       <setting name="params" value="" />
       <setting name="workingDirectory" value="file://$PROJECT_DIR$" />
       <setting name="searchForTest" value="Across module dependencies" />
-      <setting name="testName" value="" />
-      <setting name="testKind" value="Class" />
+      <setting name="testName" value="A ReverseString Stack should pop values in last-in-first-out order&#10;A ReverseString Stack should return None if get from an empty queue&#10;A ReverseString Stack should throw IllegalArgumentException if queue is full" />
+      <setting name="testKind" value="Test name" />
+      <setting name="showProgressMessages" value="true" />
+      <setting name="useSbt" value="false" />
+      <setting name="useUiWithSbt" value="false" />
+      <classRegexps />
+      <testRegexps />
+      <envs />
+    </configuration>
+    <configuration name="Exercise2Test.A ReverseString queue should pop values in last-in-first-out order" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="root" />
+      <setting name="path" value="Exercise2Test" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="A ReverseString queue should pop values in last-in-first-out order" />
+      <setting name="testKind" value="Test name" />
       <setting name="showProgressMessages" value="true" />
       <setting name="useSbt" value="false" />
       <setting name="useUiWithSbt" value="false" />
@@ -265,24 +265,6 @@
       <setting name="workingDirectory" value="file://$PROJECT_DIR$" />
       <setting name="searchForTest" value="Across module dependencies" />
       <setting name="testName" value="A ReverseString queue should pop values in last-in-first-out order&#10;A ReverseString queue should return None if get from an empty queue&#10;A ReverseString queue should throw IllegalArgumentException if queue is full" />
-      <setting name="testKind" value="Test name" />
-      <setting name="showProgressMessages" value="true" />
-      <setting name="useSbt" value="false" />
-      <setting name="useUiWithSbt" value="false" />
-      <classRegexps />
-      <testRegexps />
-      <envs />
-    </configuration>
-    <configuration name="Exercise2Test.A Stack should pop values in last-in-first-out order&#10;A Stack should throw EmptyStackException if an empty stack is popped" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="root" />
-      <setting name="path" value="Exercise2Test" />
-      <setting name="package" value="" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workingDirectory" value="file://$PROJECT_DIR$" />
-      <setting name="searchForTest" value="Across module dependencies" />
-      <setting name="testName" value="A Stack should pop values in last-in-first-out order&#10;A Stack should throw EmptyStackException if an empty stack is popped" />
       <setting name="testKind" value="Test name" />
       <setting name="showProgressMessages" value="true" />
       <setting name="useSbt" value="false" />
@@ -404,18 +386,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="ScalaTest.ScalaTests in 'scala'" />
-      <item index="1" class="java.lang.String" itemvalue="ScalaTest.Exercise14Test" />
-      <item index="2" class="java.lang.String" itemvalue="ScalaTest.Exercise1Test" />
-      <item index="3" class="java.lang.String" itemvalue="ScalaTest.Exercise2Test.A Stack should pop values in last-in-first-out order&#10;A Stack should throw EmptyStackException if an empty stack is popped" />
-      <item index="4" class="java.lang.String" itemvalue="ScalaTest.Exercise2Test.A ReverseString queue should pop values in last-in-first-out order&#10;A ReverseString queue should return None if get from an empty queue&#10;A ReverseString queue should throw IllegalArgumentException if queue is full" />
+      <item index="1" class="java.lang.String" itemvalue="ScalaTest.Exercise2Test.A ReverseString queue should pop values in last-in-first-out order&#10;A ReverseString queue should return None if get from an empty queue&#10;A ReverseString queue should throw IllegalArgumentException if queue is full" />
+      <item index="2" class="java.lang.String" itemvalue="ScalaTest.Exercise2Test.A ReverseString queue should pop values in last-in-first-out order" />
+      <item index="3" class="java.lang.String" itemvalue="ScalaTest.Exercise2Test.A ReverseString Stack should pop values in last-in-first-out order" />
+      <item index="4" class="java.lang.String" itemvalue="ScalaTest.Exercise2Test.A ReverseString Stack should pop values in last-in-first-out order&#10;A ReverseString Stack should return None if get from an empty queue&#10;A ReverseString Stack should throw IllegalArgumentException if queue is full" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="ScalaTest.ScalaTests in 'scala'" />
-        <item index="1" class="java.lang.String" itemvalue="ScalaTest.Exercise2Test.A ReverseString queue should pop values in last-in-first-out order&#10;A ReverseString queue should return None if get from an empty queue&#10;A ReverseString queue should throw IllegalArgumentException if queue is full" />
-        <item index="2" class="java.lang.String" itemvalue="ScalaTest.Exercise2Test.A Stack should pop values in last-in-first-out order&#10;A Stack should throw EmptyStackException if an empty stack is popped" />
-        <item index="3" class="java.lang.String" itemvalue="ScalaTest.Exercise1Test" />
-        <item index="4" class="java.lang.String" itemvalue="ScalaTest.Exercise14Test" />
+        <item index="0" class="java.lang.String" itemvalue="ScalaTest.Exercise2Test.A ReverseString Stack should pop values in last-in-first-out order&#10;A ReverseString Stack should return None if get from an empty queue&#10;A ReverseString Stack should throw IllegalArgumentException if queue is full" />
+        <item index="1" class="java.lang.String" itemvalue="ScalaTest.Exercise2Test.A ReverseString Stack should pop values in last-in-first-out order" />
+        <item index="2" class="java.lang.String" itemvalue="ScalaTest.Exercise2Test.A ReverseString queue should pop values in last-in-first-out order" />
+        <item index="3" class="java.lang.String" itemvalue="ScalaTest.ScalaTests in 'scala'" />
+        <item index="4" class="java.lang.String" itemvalue="ScalaTest.Exercise2Test.A ReverseString queue should pop values in last-in-first-out order&#10;A ReverseString queue should return None if get from an empty queue&#10;A ReverseString queue should throw IllegalArgumentException if queue is full" />
       </list>
     </recent_temporary>
   </component>
@@ -466,14 +448,14 @@
     <history-entry file="Exercise13Test - 2017.12.01 at 11h 26m 03s.xml">
       <configuration name="Exercise13Test" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
-    <history-entry file="Exercise13Test_Test_retry - 2017.12.01 at 11h 25m 05s.xml">
-      <configuration name="Exercise13Test.Test retry" configurationId="ScalaTestRunConfiguration" />
-    </history-entry>
-    <history-entry file="Exercise13Test_Test_retry_5_times - 2017.12.01 at 11h 25m 56s.xml">
-      <configuration name="Exercise13Test.Test retry 5 times" configurationId="ScalaTestRunConfiguration" />
-    </history-entry>
     <history-entry file="Exercise14Test - 2017.12.01 at 11h 29m 51s.xml">
       <configuration name="Exercise14Test" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="Exercise2Test_A_ReverseString_Stack_should_pop_values_in_last-in-first-out_order - 2017.12.01 at 12h 22m 36s.xml">
+      <configuration name="Exercise2Test.A ReverseString Stack should pop values in last-in-first-out order" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="Exercise2Test_A_ReverseString_queue_should_pop_values_in_last-in-first-out_order - 2017.12.01 at 12h 21m 12s.xml">
+      <configuration name="Exercise2Test.A ReverseString queue should pop values in last-in-first-out order" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
     <history-entry file="Exercise2Test_A_Stack_should_pop_values_in_last-in-first-out_order_A_Stack_should_throw_EmptyStackException_if_an_empty_stack_is_popped - 2017.12.01 at 12h 03m 32s.xml">
       <configuration name="Exercise2Test.A Stack should pop values in last-in-first-out order&#10;A Stack should throw EmptyStackException if an empty stack is popped" configurationId="ScalaTestRunConfiguration" />
@@ -507,7 +489,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32952183" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32952183" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -832,14 +814,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/Exercise1.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="18" column="17" lean-forward="false" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/scala/Exercise1Test.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="525">
@@ -850,21 +824,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/Exercise2.scala">
+    <entry file="file://$PROJECT_DIR$/src/test/scala/Exercise2Test.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="15" lean-forward="false" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+        <state relative-caret-position="24">
+          <caret line="3" column="38" lean-forward="true" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Exercise1.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="19" column="6" lean-forward="false" selection-start-line="19" selection-start-column="6" selection-end-line="25" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/scala/Exercise2Test.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Exercise2.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
-          <folding>
-            <element signature="e#0#30#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="420">
+          <caret line="28" column="3" lean-forward="true" selection-start-line="28" selection-start-column="3" selection-end-line="28" selection-end-column="3" />
+          <folding />
         </state>
       </provider>
     </entry>
