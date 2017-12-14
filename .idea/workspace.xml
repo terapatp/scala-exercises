@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e318e097-6493-43d0-882d-414723a7a9fb" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/scala/Exercise6.scala" afterPath="$PROJECT_DIR$/src/main/scala/Exercise6.scala" />
-    </list>
+    <list default="true" id="e318e097-6493-43d0-882d-414723a7a9fb" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/project/project/target/" />
