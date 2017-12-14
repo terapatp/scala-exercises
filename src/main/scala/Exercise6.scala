@@ -9,5 +9,4 @@ object Exercise6 {
     .flatMap(str => str.toCharArray.map(c => (c, str)))
     .groupBy(c => c._1)
     .mapValues(m => m.map(p => p._2).distinct.toList)
-
 }
